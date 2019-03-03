@@ -5,10 +5,11 @@ Redesign of http://www.detuinier.be/index.html
 Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-business-website/README.md
 
 ## Deadlines/Planning
-- Meeting 1: Wed 27/02/2019 09:00
+- Meeting 1 (Scope and direction): Wed 27/02/2019 09:00
+- Meeting 2 (Wireframe proposal): Wed 06/02/2019 time tbd
 - Delivery (by email): Mon 11/03/2019 09:00
-- Presentation ready: Fri 15/03/2019
-- Present: Fri 15/03/2019
+- Presentation (by email): Fri 15/03/2019 09:00
+- Present: Fri 15/03/2019 time tbd
 
 ## Action items
 
