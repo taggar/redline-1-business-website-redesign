@@ -14,14 +14,14 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 ## Action items
 
 ### Done
-- Investigate the site: Tue 26/02make sitemap, prep questions for client.
+- Investigate the site: Tue 26/02 make sitemap, prep questions for client.
 - Meet with `client`: Wed 27/02 09:00
 - Pick wireframing tool: Fri 01/03 Pencil
 - Find some sample artwork: Fri 01/03 Pinterest
 
 ### Todo
 
-- Create a fast (rough sketch) mockup of the structure of the site
+- Create a fast (rough sketch) [mockup](https://github.com/taggar/redline-1-business-website-redesign/blob/master/_wireframe/test_export/index.html) of the structure of the site
 - Plan a second meeting with the client to discuss the final review of the site
 - Listen to any changes the client wants and create the website
 - You need at least: home page - contact page - one page of your choice
