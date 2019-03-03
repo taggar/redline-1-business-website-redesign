@@ -21,7 +21,7 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 
 ### Todo
 
-- Create a fast (rough sketch) [mockup](https://github.com/taggar/redline-1-business-website-redesign/blob/master/_wireframe/test_export/index.html) of the structure of the site
+- Create a fast (rough sketch) [mockup](_wireframe/test_export/index.html) of the structure of the site
 - Plan a second meeting with the client to discuss the final review of the site
 - Listen to any changes the client wants and create the website
 - You need at least: home page - contact page - one page of your choice
