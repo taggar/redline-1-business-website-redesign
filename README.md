@@ -18,12 +18,13 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 - Meet with `client`: Wed 27/02 09:00
 - Pick wireframing tool: Fri 01/03 Pencil
 - Find some sample artwork: Fri 01/03 Pinterest artwork
+- Create a fast (rough sketch) [mockup](https://taggar.github.io/redline-1-business-website-redesign/_wireframe/test_export/index.html) of the structure of the site
+- Plan a second meeting with the client to discuss the final review of the site
 - Expand mock-up and prep meeting: Tue 05/03 PM
+- Client meeting 2 for mock-up approval: Wed 06/03 10:00
 
 ### Todo
 
-- Create a fast (rough sketch) [mockup](https://taggar.github.io/redline-1-business-website-redesign/_wireframe/test_export/index.html) of the structure of the site
-- Plan a second meeting with the client to discuss the final review of the site
 - Listen to any changes the client wants and create the website
 - You need at least: home page - contact page - one page of your choice
 - A navbar linking the different pages- Fix content where necessary (spelling errors, no content present (1))
