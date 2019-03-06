@@ -62,3 +62,6 @@ Once your presentation is done, there is time for Q&A, followed by a feedback ro
 
 ### Meeting 2
 
+- OK met ontwerp en kleurkeuze.
+- Eventueel iets minder "boxy"
+- Footer in achtergrondkleur zoals Header, Contact als laatste, Zoeken enkel indien nuttig
