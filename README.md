@@ -7,9 +7,9 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 ## Deadlines/Planning
 - Meeting 1 (Scope and direction): Wed 27/02/2019 09:00
 - Meeting 2 (Wireframe proposal): Wed 06/02/2019 time tbd
-- Delivery (by email): Mon 11/03/2019 09:00
-- Presentation (by email): Fri 15/03/2019 09:00
-- Present: Fri 15/03/2019 time tbd
+- Delivery (by email): Mon 18/03/2019 09:00
+- Presentation (by email): Fri 22/03/2019 09:00
+- Present: Fri 22/03/2019 time tbd
 
 ## Action items
 
@@ -17,7 +17,8 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 - Investigate the site: Tue 26/02 make sitemap, prep questions for client.
 - Meet with `client`: Wed 27/02 09:00
 - Pick wireframing tool: Fri 01/03 Pencil
-- Find some sample artwork: Fri 01/03 Pinterest
+- Find some sample artwork: Fri 01/03 Pinterest artwork
+- Expand mock-up and prep meeting: Tue 05/03 PM
 
 ### Todo
 
@@ -45,3 +46,19 @@ Make sure these points are present in the presentation as well:
 
 The presentation has to be 10 minutes long (you get 1 minute fall-off time)
 Once your presentation is done, there is time for Q&A, followed by a feedback round.
+
+## Client Brief
+
+### Meeting 1
+
+- Site zelf gemaakt, graag ook zelf kunnen onderhouden/bijwerken later
+- moderniseren/actualiseren
+- vooral inzetten op call to action voor verkennende afspraak
+- Foto's: 
+  * van projecten, niet van werknemers (te volatiel) behalve bedrijfsleiding
+  * kan aangeleverd worden
+- Logo mag tekstueel
+- kleurschema aanleunend bij "tuin": natuurlijke kleuren, groen, bruin
+
+### Meeting 2
+
