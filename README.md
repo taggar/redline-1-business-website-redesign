@@ -6,7 +6,7 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 
 ## Deadlines/Planning
 - Meeting 1 (Scope and direction): Wed 27/02/2019 09:00
-- Meeting 2 (Wireframe proposal): Wed 06/02/2019 time tbd
+- Meeting 2 (Wireframe proposal): Wed 06/02/2019 10:00
 - Delivery (by email): Mon 18/03/2019 09:00
 - Presentation (by email): Fri 22/03/2019 09:00
 - Present: Fri 22/03/2019 time tbd
@@ -32,8 +32,8 @@ Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-
 - Publish the entire site on github
 - Explain the project (short) on the readme of your github
 - By 11/03 09:00 Send a mail to the client explaining your design and linking the site.
-- By 15/03/2019 09: Submit 10-minute presentation by email.
-- On 15/03/2019: Present
+- By 18/03/2019 09:00 Submit 10-minute presentation by email.
+- On 22/03/2019: Present
 
 ## Presentation
 
@@ -50,7 +50,7 @@ Once your presentation is done, there is time for Q&A, followed by a feedback ro
 
 ## Client Brief
 
-### Meeting 1
+### Meeting 1: Wed 27/02/2019 09:00
 
 - Site zelf gemaakt, graag ook zelf kunnen onderhouden/bijwerken later
 - moderniseren/actualiseren
@@ -61,7 +61,7 @@ Once your presentation is done, there is time for Q&A, followed by a feedback ro
 - Logo mag tekstueel
 - kleurschema aanleunend bij "tuin": natuurlijke kleuren, groen, bruin
 
-### Meeting 2
+### Meeting 2: 06/02/2019 10:00
 
 - OK met ontwerp en kleurkeuze.
 - Eventueel iets minder "boxy"
