@@ -8,6 +8,38 @@
       /* background bestand wordt gespecifieerd op de pagina's zelf */
   }
 
+  .ownerpic {
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+      border: #1b2021 2px solid;
+      max-width: 200px;
+  }
+
+  /* Kleurschema */
+
   .card {
-      background-color: rgba(255, 255, 255, 0.3);
+      background-color: rgba(255, 255, 255, 0.5);
+  }
+
+  nav.bg-dark, footer.bg-dark {
+      background-color: #51513D !important;
+      color: #eaefd3 !important;
+  }
+
+  #afspraak .btn {
+      background-color: #a6a867bd;
+      color: #1b2021;
+      border: #1b2021 2px solid;
+      border-radius: 1em;
+      -webkit-border-radius: 1em;
+      -moz-border-radius: 1em;
+      -ms-border-radius: 1em;
+      -o-border-radius: 1em;
+  }
+
+  #afspraak .btn:hover {
+      background-color: #a6a867;
   }
