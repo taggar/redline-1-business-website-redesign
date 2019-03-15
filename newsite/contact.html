@@ -17,12 +17,12 @@
   <link href="css/detuinier.css"
         rel="stylesheet">
   <style>
-        /* Enkel voor stijlen die alleen voor deze pagina vereist zijn */
-        body {
+    /* Enkel voor stijlen die alleen voor deze pagina vereist zijn */
+    body {
 
-            background-image: url("assets/bg_overons.jpg");
+      background-image: url("assets/bg_overons.jpg");
 
-        }
+    }
   </style>
 </head>
 <body>
@@ -40,7 +40,7 @@
       <div class="collapse navbar-collapse"
            id="navbarToggle">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
+          <li class="nav-item">
             <a class="nav-link"
                 href="overons.html">Over ons</a>
           </li>
@@ -56,7 +56,7 @@
             <a class="nav-link"
                 href="vacatures.html">Vacatures <span class="small badge-pill badge-light">1</span></a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link"
                 href="contact.html">Contact</a>
           </li>
@@ -72,50 +72,104 @@
   </nav>
   <div class="jumbotron bg-transparent m-5 p-0">
     <div class="row">
-      <div class="col-md-12 col-lg-9 pb-3">
+      <div class="col-12 pb-3">
         <div class="card border-0 h-100 rounded">
           <div class="card-body">
-            <h1>Hoofding Pagina</h1>
-            <h2>Sub-hoofding</h2>
-            <form action="/html/tags/html_form_tag_action.cfm">
-              <div class="form-group row">
-                <label class="col-xs-3 col-form-label mr-2"
-                     for="first_name">First Name</label>
-                <div class="col-xs-9">
-                  <input class="form-control"
-                       id="first_name"
-                       name="first_name"
-                       type="text">
+            <h1>Maak vrijblijvend een afspraak</h1>
+            <p>Wil u een idee voor tuinaanleg of her-aanleg bespreken, regelmatig onderhoud van uw tuin, een onderkomen voor uw planten tijdens vakantie, of de winterperiode? Wij ontvangen u graag op het bedrijf of we komen bij u langs om samen met
+            u te bekijken wat mogelijk is en welk budget u moet voorzien.</p>
+            <p>Vul op onderstaand formulier uw contactgegevens in en wij nemen contact met u.</p>
+            <div class="container">
+              <form action="/html/tags/html_form_tag_action.cfm"
+                    class="">
+                <div class="row">
+                  <div class="col-sm-12 col-lg-8">
+                    <div class="form-group form-row">
+                      <label class="col-form-label col-2 text-right"
+                           for="naam">Naam</label>
+                      <div class="col-10">
+                        <input class="form-control"
+                             id="naam"
+                             name="naam"
+                             type="text">
+                      </div>
+                    </div>
+                    <div class="form-group form-row">
+                      <label class="col-form-label col-2 text-right"
+                           for="straat">Straat</label>
+                      <div class="col-6">
+                        <input class="form-control"
+                             id="straat"
+                             name="straat"
+                             type="text">
+                      </div><label class="col-form-label col-2 text-right"
+                           for="nummer">Nummer</label>
+                      <div class="col-2">
+                        <input class="form-control"
+                             id="nummer"
+                             name="nummer"
+                             type="text">
+                      </div>
+                    </div>
+                    <div class="form-group form-row">
+                      <label class="col-form-label col-2 text-right"
+                           for="plaats">Plaats</label>
+                      <div class="col-6">
+                        <input class="form-control"
+                             id="plaats"
+                             name="plaats"
+                             type="text">
+                      </div><label class="col-form-label col-2 text-right"
+                           for="postcode">Postcode</label>
+                      <div class="col-2">
+                        <input class="form-control"
+                             id="postcode"
+                             name="postcode"
+                             type="text">
+                      </div>
+                    </div>
+                    <div class="form-group form-row">
+                      <label class="col-form-label col-2 text-right"
+                           for="telefoon">Telefoon</label>
+                      <div class="col-4">
+                        <input class="form-control"
+                             id="telefoon"
+                             name="telefoon"
+                             type="text">
+                      </div><label class="col-form-label col-2 text-right"
+                           for="email">Email</label>
+                      <div class="col-4">
+                        <input class="form-control"
+                             id="email"
+                             name="email"
+                             type="email">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="border border-dark rounded m-3"></div>
+                  <div class="col-sm-12 col-lg-3">
+                    <div class="form-group">
+                      <label class="col-form-label"
+                           for="beschrijving">Beschrijf kort wat u met ons wenst te bespreken</label>
+                      <div class="">
+                        <textarea class="form-control"
+                             id="beschrijving"
+                             name="beschrijving"
+                             rows="10"
+                             type="text"></textarea>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </div>
-              <div class="form-group row">
-                <label class="col-xs-3 col-form-label mr-2"
-                     for="last_name">Last Name</label>
-                <div class="col-xs-9">
-                  <input class="form-control"
-                       id="last_name"
-                       name="last_name"
-                       type="text">
+                <div class="form-group row"
+                     id="afspraak">
+                  <div class="mx-auto">
+                    <button class="btn"
+                         type="submit"><i class="fas fa-leaf">&nbsp;</i>Aanvraag verzenden</button>
+                  </div>
                 </div>
-              </div>
-              <div class="form-group row">
-                <div class="offset-xs-3 col-xs-9">
-                  <button class="btn btn-primary"
-                       type="submit">Submit</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-12 col-lg-3 pb-3">
-        <div class="card border-0 h-100 rounded"
-             id="afspraak">
-          <div class="card-body">
-            <p class="lead">Wij komen graag bij u langs om uw idee met u bespreken.</p>
-            <p>Contacteer ons vrijblijvend voor een verkennend gesprek.</p>
-            <p><a class="btn font-weight-bold"
-               href="contact.html"><i class="fas fa-leaf">&nbsp;</i>Maak een afspraak</a></p>
+              </form>
+            </div>
           </div>
         </div>
       </div>
@@ -123,7 +177,7 @@
   </div>
   <footer class="footer fixed-bottom bg-dark">
     <div class="container small text-white text-center">
-      <span class="">© De Tuinier bvba - Krekelstraat 30 - 9052 Zwijnaarde<br>
+      <span class="">© De Tuinier bvba - Krekelplaats 30 - 9052 Zwijnaarde<br>
       Tel - fax: 09/222.06.93 Gsm: 0475/58.20.11 - info@detuinier.be</span>
     </div>
   </footer><!-- javascript needed for bootstrap -->

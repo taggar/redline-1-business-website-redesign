@@ -37,7 +37,7 @@
       color: #eaefd3 !important;
   }
 
-  #afspraak .btn {
+  #afspraak .btn, #afspraak button {
       background-color: #a6a867;
       color: #1b2021;
       border: #1b2021 2px solid;
