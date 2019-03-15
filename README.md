@@ -4,7 +4,7 @@ Redesign of http://www.detuinier.be/index.html
 
 Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-business-website/README.md
 
-Wip: https://taggar.github.io/redline-1-business-website-redesign/index.html
+Wip: https://taggar.github.io/redline-1-business-website-redesign/newsite/index.html
 
 ## Deadlines/Planning
 - Meeting 1 (Scope and direction): Wed 27/02/2019 09:00
