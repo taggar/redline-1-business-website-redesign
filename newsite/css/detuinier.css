@@ -15,13 +15,21 @@
       -ms-border-radius: 50%;
       -o-border-radius: 50%;
       border: #1b2021 2px solid;
-      max-width: 200px;
+      max-width: 150px;
   }
 
   /* Kleurschema */
 
+  body {
+      color: #1B2021;
+  }
+
+  .jumbotron {
+      background-color: rgba(255, 255, 255, 0.5) !important;
+  }
+
   .card {
-      background-color: rgba(255, 255, 255, 0.5);
+      background-color: transparent;
   }
 
   nav.bg-dark, footer.bg-dark {
@@ -30,7 +38,7 @@
   }
 
   #afspraak .btn {
-      background-color: #a6a867bd;
+      background-color: #a6a867;
       color: #1b2021;
       border: #1b2021 2px solid;
       border-radius: 1em;
@@ -41,5 +49,6 @@
   }
 
   #afspraak .btn:hover {
-      background-color: #a6a867;
+      background-color: #51513D;
+      color: white;
   }

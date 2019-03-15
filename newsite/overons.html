@@ -9,14 +9,28 @@
         href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
         rel="stylesheet">
+  <link crossorigin="anonymous"
+        href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+        rel="stylesheet">
   <title>De Tuinier - Over Ons</title>
+  <link href="css/detuinier.css"
+        rel="stylesheet">
+  <style>
+    /* Enkel voor stijlen die alleen voor deze pagina vereist zijn */
+    body {
+
+      background-image: url("assets/bg_overons.jpg");
+
+    }
+  </style>
 </head>
 <body>
   <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark"
        id="navBar">
     <div class="container">
       <a class="navbar-brand"
-           href="/index.html">De Tuinier</a> <button aria-controls="navbarToggle"
+           href="/index.html"><i class="fas fa-leaf">&nbsp;</i>De&nbsp;Tuinier</a> <button aria-controls="navbarToggle"
            aria-expanded="false"
            aria-label="Toggle navigation"
            class="navbar-toggler"
@@ -25,10 +39,10 @@
            type="button"><span class="navbar-toggler-icon">&nbsp;</span></button>
       <div class="collapse navbar-collapse"
            id="navbarToggle">
-        <ul class="navbar-nav m-auto">
+        <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
             <a class="nav-link"
-                href="over_ons.html">Over ons</a>
+                href="overons.html">Over ons</a>
           </li>
           <li class="nav-item">
             <a class="nav-link"
@@ -40,7 +54,7 @@
           </li>
           <li class="nav-item">
             <a class="nav-link"
-                href="vacatures.html">Vacatures</a>
+                href="vacatures.html">Vacatures <span class="small badge-pill badge-light">1</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link"
@@ -56,15 +70,58 @@
       </div>
     </div>
   </nav>
-  <div class="container pt-5 pb-2">
-    <p>Content goes here</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum placeat beatae non sint. Et provident quo quisquam pariatur laudantium? Ullam, accusantium porro! Illum expedita laborum dolores accusantium voluptate optio deserunt.</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, reiciendis, eaque aliquid fuga quasi minus quis incidunt blanditiis sapiente est earum aliquam maxime eius adipisci harum iusto molestiae velit neque!</p>
+  <div class="jumbotron bg-transparent m-5 p-0">
+    <div class="row">
+      <div class="col-md-12 col-lg-9 pb-3">
+        <div class="card border-0 h-100 rounded">
+          <div class="card-body">
+            <h1>Even voorstellen....</h1>
+            <h2>Sinds 1984 een begrip in de hovenierswereld!</h2>
+            <p>Tuinbouwbedrijf De Tuinier werd in 1984 opgestart als eenmansbedrijf te Sint-Martens-Latem, maar ondertussen zijn we uitgegroeid tot een grote speler in de hovenierswereld. Wegens expansie van de activiteiten zijn we verhuisd naar
+            onze huidige site te Zwijnaarde, om u nog beter van dienst te kunnen zijn.</p>
+          </div>
+          <div class="row">
+            <div class="col-md-12 col-lg-6 text-center">
+              <div class="card border-0 h-100 bg-transparent"
+                   id="clint">
+                <div class="card-body">
+                  <img class="ownerpic"
+                       src="assets/clint.jpg">
+                  <div class="ownerbio">
+                    <h2>Clint Morel</h2>
+                    <p>De oorspronkelijke oprichter van De Tuinier.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-6 text-center">
+              <div class="card border-0 h-100 bg-transparent"
+                   id="clint">
+                <div class="card-body">
+                  <img class="ownerpic"
+                       src="assets/patrick.jpg">
+                  <div class="ownerbio text-r">
+                    <h2>Patrick Morel</h2>
+                    <p>Zoon van Clint Morel en mede-eigenaar.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12 col-lg-3 pb-3">
+        <div class="card border-0 h-100 rounded"
+             id="afspraak">
+          <div class="card-body">
+            <h2 class="">Wij komen graag bij u langs om uw idee met u bespreken.</h2>
+            <p>Contacteer ons vrijblijvend voor een verkennend gesprek.</p>
+            <p class="text-center"><a class="btn font-weight-bold"
+               href="contact.html"><i class="fas fa-leaf">&nbsp;</i>Maak een afspraak</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <footer class="footer fixed-bottom bg-dark">
     <div class="container small text-white text-center">
