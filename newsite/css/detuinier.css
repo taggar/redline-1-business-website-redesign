@@ -21,6 +21,7 @@
   /* carousel */
   #myCarousel .large {
     display: flex;
+    max-height: 700px;
   }
 
   .carousel-indicators {
@@ -69,21 +70,8 @@
     padding: 0;
   }
 
-  @media screen and (min-width:320px) and (max-width:360px) {
-    .carousel-indicators li img {
-      width: 95%;
-      height: 50px;
-    }
-
-    .carousel-indicators li {
-      width: 20%;
-      height: 50px;
-    }
-
-    .carousel-indicators .active {
-      width: 20%;
-      height: 50px;
-    }
+  .carousel-item {
+    margin: 0 auto;
   }
 
   @media screen and (max-width:680px) {
