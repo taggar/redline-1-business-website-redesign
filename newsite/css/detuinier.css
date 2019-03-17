@@ -88,13 +88,13 @@
     }
   }
 
-  /* Kleurschema */
+  /* ------------------------------- Kleurschema ----------------------------- */
   body {
     color: #1B2021;
   }
 
   .jumbotron {
-    background-color: rgba(255, 255, 255, 0.6) !important;
+    background-color: rgba(255, 255, 255, 0.7) !important;
   }
 
   .card {
