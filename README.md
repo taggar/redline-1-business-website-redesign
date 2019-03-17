@@ -2,7 +2,7 @@
 
 Redesign of http://www.detuinier.be/index.html
 
-Brief: https://github.com/becodeorg/GNT-Yu-1.10/blob/master/red-line-project/01-business-website/README.md
+Brief: https://github.com/becodeorg/GNT-Yu-1.10/tree/master/red-line-project/1.Business-Website
 
 Wip: https://taggar.github.io/redline-1-business-website-redesign/newsite/index.html
 
@@ -33,9 +33,9 @@ Wip: https://taggar.github.io/redline-1-business-website-redesign/newsite/index.
 - Upload everything to github
 - Publish the entire site on github
 - Explain the project (short) on the readme of your github
-- By 11/03 09:00 Send a mail to the client explaining your design and linking the site.
-- By 18/03/2019 09:00 Submit 10-minute presentation by email.
-- On 22/03/2019: Present
+- By 18/03 09:00 Send a mail to the client explaining your design and linking the site.
+- By TBD 09:00 Submit 10-minute presentation by email.
+- On TBD: Present
 
 ## Presentation
 
@@ -57,7 +57,7 @@ Once your presentation is done, there is time for Q&A, followed by a feedback ro
 - Site zelf gemaakt, graag ook zelf kunnen onderhouden/bijwerken later
 - moderniseren/actualiseren
 - vooral inzetten op call to action voor verkennende afspraak
-- Foto's: 
+- Foto's:
   * van projecten, niet van werknemers (te volatiel) behalve bedrijfsleiding
   * kan aangeleverd worden
 - Logo mag tekstueel
