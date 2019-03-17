@@ -70,6 +70,10 @@
     padding: 0;
   }
 
+  .carousel-inner {
+    height: 600px;
+  }
+
   .carousel-item {
     margin: 0 auto;
   }
@@ -77,6 +81,10 @@
   @media screen and (max-width:680px) {
     .carousel-indicators {
       display: none;
+    }
+
+    .carousel-inner {
+      height: 300px;
     }
   }
 
