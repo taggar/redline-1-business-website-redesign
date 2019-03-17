@@ -19,8 +19,8 @@
   }
 
   /* carousel */
-  .carousel {
-    position: relative;
+  #myCarousel .large {
+    display: flex;
   }
 
   .carousel-indicators {
@@ -59,19 +59,17 @@
 
   .carousel-control-prev,
   .carousel-control-next {
+    position: static;
+    align-items: start;
     background-image: none;
     font-size: 2rem;
     color: #1b2021;
-    top: 200px;
-    bottom: unset;
+    z-index: 100;
+    margin: 0;
+    padding: 0;
   }
 
   @media screen and (min-width:320px) and (max-width:360px) {
-    .carousel-indicators {
-      top: 115px;
-      left: 95px;
-    }
-
     .carousel-indicators li img {
       width: 95%;
       height: 50px;
@@ -88,15 +86,9 @@
     }
   }
 
-  @media screen and (min-width:768px) and (max-width:980px) {
+  @media screen and (max-width:680px) {
     .carousel-indicators {
-      /* top: 240px;
-      left: 213px; */
-    }
-
-    .carousel-control-prev,
-    .carousel-control-next {
-      color: #a6a867;
+      display: none;
     }
   }
 
