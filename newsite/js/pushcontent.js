@@ -1,10 +1,13 @@
 // Push content down by navbar height when navbar is fixed to top
-jQuery(window).on("resize", function () {
-    $('body').css('padding-top', parseInt($('#navBar').css("height")) + 10);
-    $('body').css('padding-bottom', parseInt($('#footer').css("height")) + 10);
-});
-jQuery(window).on("load", function () {
-    $('body').css('padding-top', parseInt($('#navBar').css("height")) + 10);
-    $('body').css('padding-bottom', parseInt($('footer').css("height")) + 10);
-});
+function padBody() {
+    body.style.paddingTop = (parseInt(document.getElementById('navBar').clientHeight) + 10) + 'px';
+    body.style.paddingBottom = (parseInt(document.getElementById('footer').clientHeight) + 10) + 'px';
+}
+
+const body = document.getElementById('body');
+document.addEventListener('load', padBody(), false);
+document.addEventListener('resize', padBody(), false);
+
+
+
 
