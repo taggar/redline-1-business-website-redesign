@@ -4,7 +4,7 @@ Redesign of http://www.detuinier.be/index.html
 
 Brief: https://github.com/becodeorg/GNT-Yu-1.10/tree/master/red-line-project/1.Business-Website
 
-Wip: https://taggar.github.io/redline-1-business-website-redesign/newsite/index.html
+Wip: https://taggar.github.io/redline-1-business-website-redesign/index.html
 
 ## Deadlines/Planning
 - Meeting 1 (Scope and direction): Wed 27/02/2019 09:00
@@ -24,17 +24,17 @@ Wip: https://taggar.github.io/redline-1-business-website-redesign/newsite/index.
 - Plan a second meeting with the client to discuss the final review of the site
 - Expand mock-up and prep meeting: Tue 05/03 PM
 - Client meeting 2 for mock-up approval: Wed 06/03 10:00
-
-### Todo
-
 - Listen to any changes the client wants and create the website
 - You need at least: home page - contact page - one page of your choice
 - A navbar linking the different pages- Fix content where necessary (spelling errors, no content present (1))
 - Upload everything to github
 - Publish the entire site on github
 - Explain the project (short) on the readme of your github
-- By 18/03 09:00 Send a mail to the client explaining your design and linking the site.
-- By TBD 09:00 Submit 10-minute presentation by email.
+- 11/03 09:00 Send a mail to the client explaining your design and linking the site.
+- 18/03 09:00 Submit 10-minute presentation by email.
+
+### Todo
+
 - On TBD: Present
 
 ## Presentation
